@@ -21,3 +21,4 @@ Sistem; kayıt/rol akışları, moderasyon, güvenlik, seviye sistemi, karşıla
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/afa9b84d-9975-464c-90a7-f22fcf14b5c9" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/85f4cc7e-61ee-4fd7-9569-a04adcbbd830" />
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/77ca3af9-c224-4ec1-823d-54f0d39fe8e0" />
+<img width="761" height="622" alt="image" src="https://github.com/user-attachments/assets/d9242ee4-f58b-4808-a947-484610c5e632" />
