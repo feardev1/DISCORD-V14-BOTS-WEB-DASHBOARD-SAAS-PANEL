@@ -1,5 +1,5 @@
 ## DISCORD-V14-BOTS-WEB-DASHBOARD-SAAS-PANEL
-## İletişim için discord: feardev1(ID:1403101570312306928)
+## İletişim için discord: feardev1 ( ID:1403101570312306928 )
 Discord sunucuları için geliştirilmiş **çoklu bot mimarisine sahip, modüler ve ölçeklenebilir** bir altyapıdır.  
 Proje; ana bot, guard botları, helper botları, welcome botları, müzik botları ve web dashboard bileşenlerinden oluşur.
 
